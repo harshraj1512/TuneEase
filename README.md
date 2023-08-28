@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI-Powered Voice Assistant Flutter Radio App
 
 This is a radio app where you can ask Alan AI to play some music.
@@ -87,3 +88,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# TuneEase
+>>>>>>> 3b251776b820805e2dfe6e3bb8be63e61a6257e6
